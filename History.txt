@@ -1,0 +1,7 @@
+really needed this!
+
+Submitted : 29.12.11
+- the 'enter' key doesn't work in the main text box.
+- options to allow or disallow a conversion. (checkbox)
+- edit a conversion.
+- animation to show hide 'add button stackpanel' and page transitions
